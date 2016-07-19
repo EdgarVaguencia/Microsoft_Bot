@@ -1,0 +1,23 @@
+{
+  "name": "microsoftbotframework",
+  "version": "0.1.0",
+  "description": "Probando el framework de microsoft para el desarrollo de bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarVaguencia/Microsoft_Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "microsoft"
+  ],
+  "author": "Edgar Vaguencia <isc.edgarvalencia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdgarVaguencia/Microsoft_Bot/issues"
+  },
+  "homepage": "https://github.com/EdgarVaguencia/Microsoft_Bot#readme"
+}
